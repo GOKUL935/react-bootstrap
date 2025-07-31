@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+.row{
+  text-align: center;
+  padding: 80px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+  border-radius: 20px;
+  height: 500px;
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  z-index: ;
+  border: 1px solid;
+  background-color: rgb(112, 5, 42);
+}
+
+.container {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: rgb(238, 69, 64);
+  background: #833AB4;
+  background: linear-gradient(90deg,rgba(131, 58, 180, 1) 0%, rgba(217, 0, 11, 1) 100%, rgba(252, 176, 69, 1) 100%);
+}
+
